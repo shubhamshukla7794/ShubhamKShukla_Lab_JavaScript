@@ -1,6 +1,6 @@
 #  Great Learning Front End Lab - JavaScript
 
-This repo contains the project **Great Learning Front End Lab - JavaScript**. This is a HTML and CSS based webpages developed for [**E&ICT IIT Roorkee: Advanced Certificate Program in Full Stack Software Development**](https://www.greatlearning.in/advanced-certification-full-stack-software-development-iit-roorkee) certification.
+This repo contains the project **Great Learning Front End Lab - JavaScript**. This is a HTML, CSS and JavaScript based webpage developed for [**E&ICT IIT Roorkee: Advanced Certificate Program in Full Stack Software Development**](https://www.greatlearning.in/advanced-certification-full-stack-software-development-iit-roorkee) certification.
 
 
 ##  Problem Statement
